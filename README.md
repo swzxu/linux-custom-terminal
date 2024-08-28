@@ -12,7 +12,7 @@ Arch Linux - `sudo pacman -Sy zsh git nano`\
 Ubuntu, Debian, Mint or other Debian Based Distro - `sudo apt install zsh git nano`\
 Fedora - `sudo dnf install zsh git nano`
 # Configure
-1. Copy **.zshrc** file to your home directory
+1. Download and copy **.zshrc** file to your home directory
 2. Edit **.zshrc** - find **swzx** and replace with your username
 3. Enter this command to your terminal `git clone https://github.com/zplug/zplug ~/.zplug`
 4. Download FiraCode.zip and unpack it to .fonts directory in your home
