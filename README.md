@@ -3,6 +3,8 @@ This instruction will help you to make your terminal more beautiful and convenie
 
 **Credits: [swzx](https://github.com/swzxu) (adapting for other distro), [PLAFON](https://youtube.com/@plafonlinux) ([ALT Zero project](https://plafon.gitbook.io/alt-zero), .zshrc file), [Toxblh](https://github.com/Toxblh/) ([dotfiles](https://github.com/Toxblh/dotfiles))**
 
+[1. Installing](#Installing)
+
 # Installing
 Install Zsh and git package on your distro
 
