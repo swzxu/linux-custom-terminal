@@ -10,7 +10,7 @@ This instruction will help you to make your terminal more beautiful and convenie
 Install Zsh and git package on your distro
 Arch Linux - `sudo pacman -Sy zsh git nano`\
 Ubuntu, Debian, Mint or other Debian Based Distro - `sudo apt install zsh git nano`\
-Fedora - `sudo dnf install zsh git nano`\
+Fedora - `sudo dnf install zsh git nano`
 # Configure
 1. Copy **.zshrc** file to your home directory
 2. Edit **.zshrc** - find **swzx** and replace with your username
