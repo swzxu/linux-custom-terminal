@@ -17,14 +17,14 @@ Fedora - `sudo dnf install zsh git nano`\
 3. Enter this command to your terminal `git clone https://github.com/zplug/zplug ~/.zplug`
 4. Download FiraCode.zip and unpack it to .fonts directory in your home
 5. Enable this font in your terminal
-![Font.](font.png)
+![Font.](assets/font.png)
 6. Run Zsh with `zsh` command, it automatically installs all plugins
-![Plugins.](plugins.png)
+![Plugins.](assets/plugins.png)
 7. Set Zsh as default shell `sudo nano /etc/passwd`
-![Passwd.](passwd.png)\
+![Passwd.](assets/passwd.png)\
 If you want to reconfigure Powerlevel-10k, just type the `p10k-configure` command
 
-![p10k-configure](p10k-config.png)
+![p10k-configure](assets/p10k-config.png)
 # Aliases
 > son="sudo systemctl suspend"\
 > reboot="systemctl reboot"\
