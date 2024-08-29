@@ -1,5 +1,5 @@
 # Beginning
-This instruction will help you to make your terminal more beautiful and convenient to use using Zsh and powerlevel10k theme\
+This instruction will help you to make your terminal more beautiful and convenient to use using Zsh and powerlevel10k theme
 
 [![Russian](assets/ru.gif)](README_RU.md)
 
