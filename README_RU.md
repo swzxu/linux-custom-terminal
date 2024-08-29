@@ -1,5 +1,6 @@
 # Начало
 Эта инструкция поможет вам сделать ваш терминал более красивым и удобным в использовании, используя Zsh и тему powerlevel10\
+
 [![English](assets/en.gif)](README.md)
 
 **Создатели: [swzx](https://github.com/swzxu) (адаптирование для других дистрибутивов), [PLAFON](https://youtube.com/@plafonlinux) ([Проект Alt-Zero](https://plafon.gitbook.io/alt-zero), .zshrc file), [Toxblh](https://github.com/Toxblh/) ([dotfiles](https://github.com/Toxblh/dotfiles))**
