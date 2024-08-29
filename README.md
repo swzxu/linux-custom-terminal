@@ -1,5 +1,5 @@
 # Beginning
-This instruction will help you to make your terminal more beautiful and convenient to use using Zsh and powerlevel10k theme
+This instruction will help you to make your terminal more beautiful and convenient to use using Zsh and powerlevel10k theme\
 [![Russian](assets/ru.gif)](README_RU.md)
 
 **Credits: [swzx](https://github.com/swzxu) (adapting for other distro), [PLAFON](https://youtube.com/@plafonlinux) ([ALT Zero project](https://plafon.gitbook.io/alt-zero), .zshrc file), [Toxblh](https://github.com/Toxblh/) ([dotfiles](https://github.com/Toxblh/dotfiles))**
